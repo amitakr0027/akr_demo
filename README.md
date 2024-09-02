@@ -1,4 +1,4 @@
 # akr_demo
 This is my Git Repository.
 <br>
-Author - Amit Kumar
+Author - Amit Kumar[akr]
